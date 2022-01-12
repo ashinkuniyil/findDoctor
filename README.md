@@ -1,2 +1,2 @@
 # findDoctor
-React Native application for find national medical council registered doctors.
+React Native application for finding National Medical Council registered doctors.
